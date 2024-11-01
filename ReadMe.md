@@ -10,7 +10,6 @@ In the file `Variables01` :
 1. Run the code
 2. Comment each line of code
 3. Drink water
-4. 
 
 
 In the file `Variables02`:
