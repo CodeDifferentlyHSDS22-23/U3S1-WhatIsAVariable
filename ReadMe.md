@@ -4,7 +4,7 @@
 * Part B - Student Challenge
 
 
-## Part A
+## Part A 
 
 In the file `Variables01` :
 1. Run the code
